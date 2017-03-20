@@ -1,5 +1,5 @@
 {
-  "name": "base-x",
+  "name": "base-x-array",
   "version": "3.1.0",
   "description": "Fast base encoding / decoding of any given alphabet",
   "keywords": [
@@ -14,9 +14,9 @@
     "encode",
     "encoding"
   ],
-  "homepage": "https://github.com/cryptocoinjs/base-x",
+  "homepage": "https://github.com/safezero/base-x-array",
   "bugs": {
-    "url": "https://github.com/cryptocoinjs/base-x/issues"
+    "url": "https://github.com/safezero/base-x-array/issues"
   },
   "license": "MIT",
   "author": "Daniel Cousens",
@@ -26,7 +26,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cryptocoinjs/base-x.git"
+    "url": "https://github.com/safezero/base-x-array.git"
   },
   "scripts": {
     "standard": "standard",
